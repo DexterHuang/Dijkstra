@@ -7,8 +7,8 @@ package dijkstra;
 
 import java.util.ArrayList;
 import java.util.List;
-import studentmanagement2.SortingHandler.SortableData;
-import studentmanagement2.SortingHandler.SortingHandler;
+import SortingHandler.SortableData;
+import SortingHandler.SortingHandler;
 
 /**
  *

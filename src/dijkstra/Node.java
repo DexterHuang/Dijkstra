@@ -8,7 +8,7 @@ package dijkstra;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
-import studentmanagement2.SortingHandler.SortableData;
+import SortingHandler.SortableData;
 
 /**
  *
